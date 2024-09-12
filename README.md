@@ -1,4 +1,4 @@
-```markdown
+
 # 🎨 Auto-Encoder Gray to RGB Conversion Project
 
 This project implements an **Auto-Encoder** model designed to convert grayscale images into their corresponding **RGB color versions** using deep learning techniques.
