@@ -1,5 +1,3 @@
-### Auto-Encoder Gray to RGB Project
-
 ```markdown
 # 🎨 Auto-Encoder Gray to RGB Conversion Project
 
